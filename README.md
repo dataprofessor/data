@@ -1,5 +1,4 @@
-# data
-Data Sets for Machine Learning Practice
+# Data Sets for Machine Learning Practice
 
 Name | Description
 ---|---
